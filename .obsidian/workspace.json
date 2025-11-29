@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "945d5e4668b7e9fc",
+            "id": "aaa8686066d4e227",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Syntax.md",
+                "file": "javascript/Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syntax"
+              "title": "Types"
             }
           }
         ]
@@ -194,21 +194,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "945d5e4668b7e9fc",
+  "active": "aaa8686066d4e227",
   "lastOpenFiles": [
+    "javascript/Syntax & Variables.md",
+    "javascript/Types.md",
     "javascript/자바스크립트 스터딩.md",
-    "javascript/Syntax.md",
+    "javascript/실행환경과 실습환경.md",
+    "constbehavior.js",
+    "javascript/Hoisting.md",
+    "hoisting.html",
+    "sources/javascript/number_string/var_test.js",
+    "var_test.js",
+    "sources/javascript/number_string/variables.js",
     "javascript/숫자와 문자.md",
     "sources/javascript/number_string/line_terminator.js",
     "sources/javascript/number_string/NumberTest.js",
     "sources/javascript/number_string/ex1.js",
     "sources/javascript/number_string/demo1.html",
-    "sources/javascript/number_string",
-    "sources/javascript/numberstring_open",
-    "Javascript.base",
-    "javascript/실행환경과 실습환경.md",
-    "javascript",
-    "sources/javascript",
-    "sources"
+    "sources/javascript/number_string"
   ]
 }
